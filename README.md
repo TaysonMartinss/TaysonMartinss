@@ -12,7 +12,7 @@ Aqui está um resumo das linguagens de programação que já usei, mostrando a p
 
 Abaixo estão algumas estatísticas gerais do meu perfil do GitHub, que mostram minhas contribuições e atividade recente.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TaysonMartinsso&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TaysonMartinss&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ## Projetos Recentes
 
