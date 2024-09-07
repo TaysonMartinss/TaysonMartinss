@@ -11,6 +11,8 @@ Olá! 👋 Sou Tayson Andrade Martins, um entusiasta de programação e desenvol
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 
 ![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=TaysonMartinss&layout=compact&theme=dark)
