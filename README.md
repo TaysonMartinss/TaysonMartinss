@@ -5,6 +5,14 @@ Olá! 👋 Sou Tayson Andrade Martins, um entusiasta de programação e desenvol
 ## Linguagens de Programação
 
 Aqui está um resumo das linguagens de programação que já usei, mostrando a porcentagem de cada uma em meus projetos.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 
 ![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=TaysonMartinss&layout=compact&theme=dark)
 
@@ -14,25 +22,4 @@ Abaixo estão algumas estatísticas gerais do meu perfil do GitHub, que mostram 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TaysonMartinss&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
-## Projetos Recentes
-
-Aqui estão alguns dos meus projetos mais recentes. Confira!
-
-- [Projeto 1](link-para-seu-projeto-1): Descrição breve do projeto.
-- [Projeto 2](link-para-seu-projeto-2): Descrição breve do projeto.
-- [Projeto 3](link-para-seu-projeto-3): Descrição breve do projeto.
-
-## Contato
-
-Você pode me encontrar nas seguintes plataformas:
-
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Twitter](https://twitter.com/seu-usuario)
-- [Email](mailto:seu-email@example.com)
-
-Obrigado por visitar meu perfil! 🚀
-
----
-
-*Este README foi gerado e atualizado em [Data Atual].*
 
