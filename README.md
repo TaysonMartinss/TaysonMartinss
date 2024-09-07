@@ -2,9 +2,8 @@
 
 Olá! 👋 Sou Tayson Andrade Martins, um entusiasta de programação e desenvolvimento de software. Aqui você encontrará meus projetos, contribuições e a evolução das minhas habilidades ao longo do tempo. Sinta-se à vontade para explorar e não hesite em me contatar para colaborações ou para bater um papo sobre tecnologia!
 
-## Linguagens de Programação
+## Tecnologias que tive contato
 
-Aqui está um resumo das linguagens de programação que já usei, mostrando a porcentagem de cada uma em meus projetos.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
