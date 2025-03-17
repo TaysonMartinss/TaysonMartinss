@@ -1,6 +1,5 @@
 # Bem-vindo ao Meu Perfil!
-
-Olá! 👋 Sou Tayson Andrade Martins, um entusiasta de programação e desenvolvimento de software. Aqui você encontrará meus projetos, contribuições e a evolução das minhas habilidades ao longo do tempo. Sinta-se à vontade para explorar e não hesite em me contatar para colaborações ou para bater um papo sobre tecnologia!
+👋 Sou Tayson Andrade Martins, um entusiasta de programação e desenvolvimento de software. Aqui você encontrará meus projetos, contribuições e a evolução das minhas habilidades ao longo do tempo. Sinta-se à vontade para explorar e não hesite em me contatar para colaborações ou para bater um papo sobre tecnologia!
 
 ## Tecnologias que tive contato
 
